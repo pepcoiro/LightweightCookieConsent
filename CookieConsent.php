@@ -3,7 +3,7 @@
  * Plugin Name: Lightweight Cookie Consent & Script Blocker
  * Description: Banner di consenso cookie leggero con CookieConsent v3 e blocco preventivo degli script.
  * Version: 1.0.0
- * Author: Il Tuo Nome / GitHub Username
+ * Author: pepcoiro
  */
 
 if (!defined('ABSPATH')) {
